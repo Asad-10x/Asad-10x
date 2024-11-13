@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./images/header.jpeg" alt="Header Image" width="600">
+  <img src="./images/header.jpeg" alt="Header Image" width="800">
 </div>
 
 <!--
