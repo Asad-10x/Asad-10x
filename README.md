@@ -13,8 +13,7 @@
 
 <!-- Greetings-->
 <div>
-  <h2> Hi, I'm Asad Ali. </h2>
-
+  <h2 align="left" padding="30px"> Hi, I'm Asad Ali. </h2>
 </div>
 
 <!-- About Me -->
