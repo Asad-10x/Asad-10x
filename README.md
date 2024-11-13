@@ -33,14 +33,12 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px;">
       <!-- Text content -->
-      <p>
         - 🎆 Began the journey with Software Development in C/C++ & Ninja (for Linux Applications).<br>
         - 🌜 I work on Front-end development & Design when I'm bored while focusing on Back-end Development & AI/ML.<br>
         - 🌱 I'm currently pursuing my Bachelors in Computer Science.<br>
         - 🪴 I worked on Linux Computer Applications, MEAN Stack Web Apps, Bash Shell Scripting & Automation (Python).<br>
         - ⚡ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Automation, and Data Science.<br>
         - 🎯 Perfectionist!
-      </p>
     </td>
     <td>
       <!-- Image/GIF -->
