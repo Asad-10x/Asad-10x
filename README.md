@@ -12,7 +12,10 @@
 </div>
 
 <!-- Greetings-->
-### Hi, I'm Asad Ali Nasir
+<div>
+  <h2> Hi, I'm Asad Ali. </h2>
+
+</div>
 
 <!-- About Me -->
 #### 📚 About Me
