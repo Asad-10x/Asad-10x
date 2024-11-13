@@ -13,17 +13,26 @@
 
 <!-- Greetings-->
 <div>
-  <h2 align="left" padding="30px"> Hi, I'm Asad Ali. </h2>
+  <h2 align="left" margin="30px"> Hi, I'm Asad Ali. </h2>
 </div>
 
 <!-- About Me -->
-#### 📚 About Me
-- 🎇 Began the Journey with Software Development in C/C++ & Ninja (for Linux Applications)
-- 🌜 I work on Front-end development & Design when I'm bored while focusing on Back-end Development & AI/ML.
-- 🌱 I'm currently pursuing my Bachelors in Computer Science.
-- 💸 I worked on Linux Computer Applications, MEAN Stack Web Apps, Bash Shell Scripting & Automation (Python).
-- ⚡ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Automation and Data Science.
-- 🕴️ Perfectionist ! 
+<div>
+  <h3> ❄️  About Me </h3> 
+</div>
+
+ 🎇 Began the Journey with Software Development in C/C++ & Ninja (for Linux Applications)
+
+ 🌜 I work on Front-end development & Design when I'm bored while focusing on Back-end Development & AI/ML.
+
+ 🌱 I'm currently pursuing my Bachelors in Computer Science.
+
+ 💸 I worked on Linux Computer Applications, MEAN Stack Web Apps, Bash Shell Scripting & Automation (Python).
+
+ ⚡ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Automation and Data Science.
+
+ 🕴️ Perfectionist ! 
+
 
 
 
