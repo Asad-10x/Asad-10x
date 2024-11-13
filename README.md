@@ -1,5 +1,5 @@
 
-[GitHub Header](./images/header.jpeg)
+![GitHub Header](./images/header.jpeg)
 
 <!--
 **Asad-10x/Asad-10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
