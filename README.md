@@ -44,7 +44,7 @@
 </div>
 
 <!-- Contact Information -->
-<h3 style="color: #4682b4;">- 🤝 Connect with Me</h3>
+<h3 style="color: #4682b4;">- 🤝 Connect with Me @</h3>
 <p align="center">
   <a href="mailto:selcouth683@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
@@ -75,6 +75,22 @@
     <img src="https://skillicons.dev/icons?i=angular,nodejs,mongodb,atom,typescript,firebase,flutter,postman,aws" /><br>
 </div>
 <!-- Tech Stack -->
+<div align="center">
+  <h2>Tech Stack: </h2>
+  <br>
+  <div align="center"> 
+         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+          <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
+          <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+          <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" />
+          <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  </div>
+</div>
 <!-- Support Me -->
 <!-- Github Stats -->
 <!-- Top contributed repos --> 
