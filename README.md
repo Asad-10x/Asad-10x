@@ -13,7 +13,7 @@
 
 <!-- Greetings-->
 <div>
-  <h2 align="left" margin="30px"> Hi, I'm Asad Ali. </h2>
+  <h2 align="left" style="padding: 20px; font: FiraCode Nerd Font Mono;"> Hi, I'm Asad Ali. </h2>
 </div>
 
 <!-- About Me -->
