@@ -5,9 +5,12 @@
   <img src="./images/header.jpeg" alt="Header Image" width="800">
 </div>
 
-# [Asad-10x Here] 🔥!
 
 
+
+<div align="center">
+  <h1 style="color: blue;">Asad-10x Here 🔥!</h1>
+</div>
 
 
 
