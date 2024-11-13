@@ -13,13 +13,15 @@
 
 <!-- Greetings-->
 <div>
-  <h2 align="left" style="padding: 20px; font: FiraCode Nerd Font Mono;"> Hi, I'm Asad Ali. </h2>
+  <h2 align="left" style="font-family: 'Fira Code', monospace; color: #1e90ff;"> Hi, I'm Asad Ali. </h2>
 </div>
 
 <!-- About Me -->
 <div>
-  <h3> ❄️  About Me </h3> 
+  <h3 style="color: #4682b4;"> ❄️  About Me </h3> 
 </div>
+
+<p style="font-size: 16px; line-height: 1.6;">
 
  🎇 Began the Journey with Software Development in C/C++ & Ninja (for Linux Applications)
 
@@ -31,7 +33,8 @@
 
  ⚡ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Automation and Data Science.
 
- 🕴️ Perfectionist ! 
+ 🕴️ Perfectionist !
+</p>
 
 
 
