@@ -9,7 +9,7 @@
 
 
 <div align="center">
-  <h1 style="color: blue;">Asad-10x Here 🔥!</h1>
+  <h1 style="color: #003161">Asad-10x Here 🔥!</h1>
 </div>
 
 
