@@ -16,12 +16,15 @@
 
 <!-- About Me -->
 ### 📚 About Me
+<span align="right">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThjbWk5aGRzaWRlcnZ6d3A3aGJ5cHNwNWhrb3NoN2s4cTJ3M3p3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="programming-git">
+</span>
 - 🎇 Began the Journey with Software Development in C/C++ & Ninja (for Linux Applications)
 - 🌜 I work on Front-end development & Design when I'm bored while focusing on Back-end Development & AI/ML.
 - 🌱 I'm currently pursuing my Bachelors in Computer Science.
 - 💸 I worked on Linux Computer Applications, MEAN Stack Web Apps, Bash Shell Scripting & Automation (Python).
 - ⚡ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Automation and Data Science.
-- 🕴️ Perfectionist! 
+- 🕴️ Perfectionist ! 
 
 
 
