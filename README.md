@@ -97,11 +97,18 @@
 <!-- Github Stats -->
 <!-- Top contributed repos --> 
 <!-- Random Dev Quote -->
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<div align="center">
+  <h2> Random Dev Quote</h2>
+  
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
 <!-- footer -->
 <p align="center">
-    © [2023] [ Asad Ali ]. 
-    Built with ❤️ by [asad-10x].
+    © 2023  asad-10x. 
+    Built with ❤️ by Asad Ali.
 </p>
 
 
