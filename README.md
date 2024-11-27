@@ -46,7 +46,7 @@
 </div>
 
 <!-- Contact Information -->
-<h3 style="color: #4682b4;">- 🤝 Connect with Me @ </h3>
+<h3 style="color: #4682b4;">- 🤝 <i> Connect with Me @ </i></h3>
 <p align="center">
   <a href="mailto:selcouth683@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
@@ -100,7 +100,7 @@
 
 
 <div align="center">
-  <h2> Random Dev Quote</h2>
+  <h2> <i> Random Dev Quote </i> </h2>
   
   ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
