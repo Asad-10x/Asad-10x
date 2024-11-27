@@ -16,14 +16,16 @@
   <h2 align="left" color: #1e90ff;"> Hi, I'm Asad Ali. </h2>
 </div>
 
-<!-- Profile views -->
 <!-- [![](https://visitcount.itsvg.in/api?id=Asad-10x&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
 
 <!-- About Me -->
 <div>
   <h3 style="color: #4682b4;"> - 💫 About Me </h3> 
+
+  <!-- the gif in about me section -->
   <img align="right" alt="coding-gif" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN5OXJsMWlkNDVjdzVzM2RyNTd4eHFzcDR6N3JneXJ6Nmw4bmUwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif">
 
+<!-- Profile views -->
   <p align="left" > <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Asad-10x&label=Profile%20Views&color=4&icon=0&pretty=true" alt="Visitor Count"/></a> </p>
 
@@ -44,7 +46,7 @@
 </div>
 
 <!-- Contact Information -->
-<h3 style="color: #4682b4;">- 🤝 Connect with Me @</h3>
+<h3 style="color: #4682b4;">- 🤝 Connect with Me @ </h3>
 <p align="center">
   <a href="mailto:selcouth683@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
@@ -95,7 +97,12 @@
 <!-- Github Stats -->
 <!-- Top contributed repos --> 
 <!-- Random Dev Quote -->
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- footer -->
+<p align="center">
+    © [2023] [ Asad Ali ]. 
+    Built with ❤️ by [asad-10x].
+</p>
 
 
 
